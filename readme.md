@@ -10,7 +10,7 @@ Next, the function constructs an HTTP response object that includes the construc
 
 Finally, the function returns the constructed HTTP response object, which is sent back to the client that made the original HTTP request.
 
-**--------------------------------------------------------------------------------------------------------------------------------------------------**
+**--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 Rest API - REST (Representational State Transfer) API is an architectural style for building web services. It is based on the HTTP protocol and uses HTTP methods like GET, POST, PUT, DELETE, etc. to communicate between client and server.
 
