@@ -1,4 +1,5 @@
-#AWS API Gateway to lambda (build a REST API)
+AWS API Gateway to lambda (build a REST API)
+
 This code is an AWS Lambda function that can be triggered by an HTTP request through an API Gateway.
 
 The function receives a request that includes query string parameters, which are then parsed out in lines 7-9 to extract the values of the transaction ID, type, and amount.
