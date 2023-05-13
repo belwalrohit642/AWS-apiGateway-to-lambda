@@ -9,7 +9,9 @@ Then, the function constructs a response object that includes these values along
 Next, the function constructs an HTTP response object that includes the constructed transaction response object and appropriate headers to indicate that the response body is in JSON format. This response object is constructed as a dictionary in lines 18-21.
 
 Finally, the function returns the constructed HTTP response object, which is sent back to the client that made the original HTTP request.
+
 **--------------------------------------------------------------------------------------------------------------------------------------------------**
+
 Rest API - REST (Representational State Transfer) API is an architectural style for building web services. It is based on the HTTP protocol and uses HTTP methods like GET, POST, PUT, DELETE, etc. to communicate between client and server.
 
 A RESTful API is designed to be stateless, meaning that the server does not store any session data about the client. Instead, each request from the client contains all the necessary information to complete the request. The response from the server contains all the necessary information to complete the request. The response from the server contains the requested data in a format that is easy for the client to parse, such as JSON or XML.
