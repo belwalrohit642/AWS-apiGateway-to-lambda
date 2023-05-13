@@ -1,4 +1,4 @@
-AWS API Gateway to lambda (build a REST API)
+**AWS API Gateway to lambda (build a REST API)**
 
 This code is an AWS Lambda function that can be triggered by an HTTP request through an API Gateway.
 
